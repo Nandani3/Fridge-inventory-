@@ -11,7 +11,7 @@
 #st.set_page_config(page_title="Fridge Inventory Analyzer", page_icon="🧊", layout="wide")
 
 # # Configure API key
-#genai.configure(api_key=os.getenv("GOOGLE_API_KEY", "AIzaSyCxK_S56Rr4GPajz-OljM9HssxEj6ht7ww"))
+#genai.configure(api_key=os.getenv("GOOGLE_API_KEY", "your api key here"))
 
 # # Load model
 #model = genai.GenerativeModel("gemini-2.0-flash")
